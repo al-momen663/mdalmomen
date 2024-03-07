@@ -17,4 +17,4 @@ build:
       env:
         GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
       with:
-        USERNAME: ${{ github.al-momen663 }}
+        USERNAME: ${{ github.repository_owner }}
