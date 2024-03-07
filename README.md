@@ -22,7 +22,7 @@ Here are a few things I've picked up along my learning journey.
 
 ### Backend Technologies
 <a href="#backend-technologies"><img src="https://img.shields.io/badge/spring-color.svg?style=for-the-badge&logo=Spring&logoColor=white"/></a>
- <a href="#backend-technologies"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+ <a href="#backend-technologies"><img src="https://img.shields.io/badge/springboot-color.svg?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
 
 ### Mobile Technologies
 <a href="#mobile-technologies"><img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></a> <a href="#mobile-technologies"><img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white"/></a>
