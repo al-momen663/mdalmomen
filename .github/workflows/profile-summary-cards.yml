@@ -1,14 +1,13 @@
 name: profile summary card
 
 on:
-create:
 schedule: # execute every 24 hours
   - cron: "* */24 * * *"
 workflow_dispatch:
 
 jobs:
 build:
-  runs-on: ubuntu-latest
+  runs-on: debian-latest
   name: generate-github-cards
   permissions:
     contents: write
@@ -20,3 +19,11 @@ build:
         GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
       with:
         USERNAME: ${{ github.repository_owner }}
+
+        BRANCH_NAME: "main"
+          # UTC_OFFSET is optional, default to zero
+          UTC_OFFSET: 8 
+          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
+          EXCLUDE: ""
+          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch 
+          AUTO_PUSH: true
