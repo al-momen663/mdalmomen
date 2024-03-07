@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 <a href="#programming-languages"><img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/></a> <a href="#programming-languages"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
 
 ### Backend Technologies
-<a href="#backend-technologies"><img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
+<a href="#backend-technologies"><img src="https://img.shields.io/badge/spring-color.svg?style=for-the-badge&logo=Spring&logoColor=white"/></a>
  <a href="#backend-technologies"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
 
 ### Mobile Technologies
